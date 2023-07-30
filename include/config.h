@@ -1,0 +1,1 @@
+#define HOSTNAME "ESP-AIR1"
